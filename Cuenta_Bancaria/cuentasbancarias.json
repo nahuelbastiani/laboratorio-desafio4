@@ -1,0 +1,18 @@
+{
+    "cuentas": [
+      {
+        "numero_cuenta": "87654321",
+        "titular": "Ana Gómez",
+        "saldo": 1500,
+        "tipo_cuenta": "corriente",
+        "sobregiro_permitido": 500
+      },
+      {
+        "numero_cuenta": "11223344",
+        "titular": "Luis Rodríguez",
+        "saldo": 2000,
+        "tipo_cuenta": "ahorro",
+        "tasa_interes": 0.05
+      }
+    ]
+  }
